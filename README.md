@@ -2,6 +2,10 @@
 
 A Python-based chatbot that combines OpenAI's GPT models with weather information capabilities. The chatbot can handle general conversations and provide weather information for specific locations.
 
+## 📊 System Workflow
+
+![Chatbot Workflow Diagram]("Chatbot Flow.png")
+
 ## Features
 
 - General conversation using OpenAI's GPT models
