@@ -4,7 +4,7 @@ A Python-based chatbot that combines OpenAI's GPT models with weather informatio
 
 ## 📊 System Workflow
 
-![Chatbot Workflow Diagram]("Chatbot Flow.png")
+![Chatbot Workflow Diagram](Chatbot_Workflow.png)
 
 ## Features
 
