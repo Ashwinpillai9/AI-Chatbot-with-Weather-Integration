@@ -1,0 +1,5 @@
+openai>=1.12.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+httpx>=0.26.0
+nltk>=3.8.1
