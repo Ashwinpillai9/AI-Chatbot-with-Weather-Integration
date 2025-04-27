@@ -2,6 +2,15 @@
 
 A Python-based chatbot that combines OpenAI's GPT models with weather information capabilities. The chatbot can handle general conversations and provide weather information for specific locations.
 
+# 🌟 AI Chatbot with OpenAI & Weather API
+
+[![Python](https://img.shields.io/badge/Built%20with-Python-blue?logo=python)](https://www.python.org/)
+[![OpenAI](https://img.shields.io/badge/Powered%20by-OpenAI-ff69b4?logo=openai)](https://platform.openai.com/)
+[![Weather API](https://img.shields.io/badge/API-WeatherAPI-blueviolet)](https://www.weatherapi.com/)
+[![JSON](https://img.shields.io/badge/Data-JSON-orange)](https://www.json.org/json-en.html)
+[![NLTK](https://img.shields.io/badge/NLP-NLTK-yellowgreen)](https://www.nltk.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 ## 📊 System Workflow
 
 ![Chatbot Workflow Diagram](Chatbot_workflow.png)
